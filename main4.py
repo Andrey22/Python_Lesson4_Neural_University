@@ -12,13 +12,12 @@ new_list = choice_name(listnames, lenth=100)
 print(new_list)
 
 # 2. Напишите функцию вывода самого частого имени из списка на выходе функции F;
-listcount=[]
-for i in range(101):
-    listcount=new_list.count('new_list[i]')
-#     print(listcount)
-# for i in range(101):
-#     print (new_list(i))
-# listcount=new_list.count("new_list")
-# listsorted=list(sorted(listcount, reverse=True))
+def most_frequent(names):
+    word = {}
+    for name in names:
+        word[name] = word.get(name,0) + 1
+    word = list(word.items())
+    word.sort(key=lambda x: x, reverse=True)
+    return word[0][0], word[0], word[1][0], word[2], word,
 
-print(listcount)
+print(most_frequent(new_list))
