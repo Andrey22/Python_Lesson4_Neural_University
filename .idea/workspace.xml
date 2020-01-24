@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3984f701-7ad2-491a-af41-f5f17d75c70a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main4.py" beforeDir="false" afterPath="$PROJECT_DIR$/main4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579855566008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit4">
+      <created>1579909321816</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579909321816</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,9 +145,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="38" key="CommitChangelistDialog2" timestamp="1579855565450">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state x="326" y="0" key="CommitChangelistDialog2" timestamp="1579909320373">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="326" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579909320372" />
     <state x="458" y="38" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1579855565450" />
     <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1579909292856">
       <screen x="0" y="0" width="1366" height="728" />
@@ -183,9 +190,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="344" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1579791191606" />
-    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579854684800">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state x="321" y="128" key="Vcs.Push.Dialog.v2" timestamp="1579909338775">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="321" y="128" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579909338775" />
     <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1579854684800" />
     <state x="543" y="257" key="git4idea.merge.GitPullDialog" timestamp="1579855578116">
       <screen x="0" y="0" width="1920" height="1032" />
