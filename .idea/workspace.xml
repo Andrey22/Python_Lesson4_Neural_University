@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3984f701-7ad2-491a-af41-f5f17d75c70a" name="Default Changelist" comment="" />
+    <list default="true" id="3984f701-7ad2-491a-af41-f5f17d75c70a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main4.py" beforeDir="false" afterPath="$PROJECT_DIR$/main4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579792843696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit4">
+      <created>1579855566008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579855566008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,26 +139,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="38" key="CommitChangelistDialog2" timestamp="1579792843014">
+    <state x="458" y="38" key="CommitChangelistDialog2" timestamp="1579855565450">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="458" y="38" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1579792843014" />
-    <state width="1892" height="259" key="GridCell.Tab.0.bottom" timestamp="1579854989249">
+    <state x="458" y="38" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1579855565450" />
+    <state width="1892" height="259" key="GridCell.Tab.0.bottom" timestamp="1579886775849">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1579854989249" />
-    <state width="1892" height="259" key="GridCell.Tab.0.center" timestamp="1579854989249">
+    <state width="1892" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1579886775849" />
+    <state width="1892" height="259" key="GridCell.Tab.0.center" timestamp="1579886775849">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="259" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1579854989249" />
-    <state width="1892" height="259" key="GridCell.Tab.0.left" timestamp="1579854989248">
+    <state width="1892" height="259" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1579886775849" />
+    <state width="1892" height="259" key="GridCell.Tab.0.left" timestamp="1579886775849">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="259" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1579854989248" />
-    <state width="1892" height="259" key="GridCell.Tab.0.right" timestamp="1579854989249">
+    <state width="1892" height="259" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1579886775849" />
+    <state width="1892" height="259" key="GridCell.Tab.0.right" timestamp="1579886775849">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="259" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1579854989249" />
+    <state width="1892" height="259" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1579886775849" />
+    <state width="1892" height="321" key="GridCell.Tab.1.bottom" timestamp="1579885658007">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1579885658007" />
+    <state width="1892" height="321" key="GridCell.Tab.1.center" timestamp="1579885658007">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="321" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1579885658007" />
+    <state width="1892" height="321" key="GridCell.Tab.1.left" timestamp="1579885658007">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="321" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1579885658007" />
+    <state width="1892" height="321" key="GridCell.Tab.1.right" timestamp="1579885658007">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="321" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1579885658007" />
     <state x="344" y="56" key="SettingsEditor" timestamp="1579791191606">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -157,9 +183,27 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1579854684800" />
-    <state x="543" y="257" key="git4idea.merge.GitPullDialog" timestamp="1579855291252">
+    <state x="543" y="257" key="git4idea.merge.GitPullDialog" timestamp="1579855578116">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="543" y="257" key="git4idea.merge.GitPullDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1579855291252" />
+    <state x="543" y="257" key="git4idea.merge.GitPullDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1579855578116" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main4.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

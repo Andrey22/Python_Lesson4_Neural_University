@@ -10,3 +10,15 @@ listnames=['Kate', 'John', 'Nataly', 'Liza', 'John', 'Andrew', 'Olga', 'Mariana'
 new_list = choice_name(listnames, lenth=100)
 
 print(new_list)
+
+# 2. Напишите функцию вывода самого частого имени из списка на выходе функции F;
+listcount=[]
+for i in range(101):
+    listcount=new_list.count('new_list[i]')
+#     print(listcount)
+# for i in range(101):
+#     print (new_list(i))
+# listcount=new_list.count("new_list")
+# listsorted=list(sorted(listcount, reverse=True))
+
+print(listcount)
