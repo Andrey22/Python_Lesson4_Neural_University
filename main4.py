@@ -1,18 +1,12 @@
-import random
 # 1. Напишите функцию (F): на вход список имен и целое число N; на выходе список длины N случайных имен из первого списка (могут повторяться,
 # можно взять значения: количество имен 20, N = 100,
 # рекомендуется использовать функцию random);
+import random
+def choice_name(names, lenth):
+    return random.choices(names, k=lenth)
 
-def choisename(*args, N):
-    for i in range(101):
-        index=random.randint(i)
-        list.append(list2,list1(index))
-    return list2
+listnames=['Kate', 'John', 'Nataly', 'Liza', 'John', 'Andrew', 'Olga', 'Mariana', 'Abraham', 'Julia', 'Ornella', 'Liza', 'Maria', 'Alex', 'Peter', 'Julia', 'Andrew', 'Kate', 'Samuil', 'Galina']
 
-list3=['Bdfy','Ivan']
+new_list = choice_name(listnames, lenth=100)
 
-# list2=choisename(list3, 100)
-N=100
-choisename(list3, 100)
-
-print (list2)
+print(new_list)
