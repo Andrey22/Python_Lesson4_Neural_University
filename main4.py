@@ -1,23 +1,25 @@
-# 1. Напишите функцию (F): на вход список имен и целое число N; на выходе список длины N случайных имен из первого списка (могут повторяться,
+# 1. Напишите функцию (F): на вход список имен и целое число N; на выходе
+# список длины N случайных имен из первого списка (могут повторяться,
 # можно взять значения: количество имен 20, N = 100,
 # рекомендуется использовать функцию random);
 import random
-def choice_name(names, lenth):
-    return random.choices(names, k=lenth)
+def choice_name(names, length):
+    return random.choices(names, k=length)
 
 listnames=['Kate', 'John', 'Nataly', 'Liza', 'John', 'Andrew', 'Olga', 'Mariana', 'Abraham', 'Julia', 'Ornella', 'Liza', 'Maria', 'Alex', 'Peter', 'Julia', 'Andrew', 'Kate', 'Samuil', 'Galina']
 
-new_list = choice_name(listnames, lenth=100)
+new_list = choice_name(listnames, length=100)
 
 print(new_list)
 
 # 2. Напишите функцию вывода самого частого имени из списка на выходе функции F;
-def most_frequent(names):
-    word = {}
-    for name in names:
-        word[name] = word.get(name,0) + 1
-    word = list(word.items())
-    word.sort(key=lambda x: x, reverse=True)
-    return word[0][0], word[0], word[1][0], word[2], word,
+def frequentname(listname):
+    dict = {}
+    for name in listname:
+        dict[name] = dict.get(name,0) + 1
+    dict = list(dict.items())
+    dict.sort(key=lambda x: x[1], reverse=True)
+    return dict[0]
 
-print(most_frequent(new_list))
+print(frequentname(new_list
+

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3984f701-7ad2-491a-af41-f5f17d75c70a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main4.py" beforeDir="false" afterPath="$PROJECT_DIR$/main4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579909321816</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit4">
+      <created>1579909564537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579909564537</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit 4.1">
+      <created>1579909725612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579909725612</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,33 +157,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit4" />
+    <MESSAGE value="Commit 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 4.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="326" y="0" key="CommitChangelistDialog2" timestamp="1579909563112">
+    <state x="326" y="0" key="CommitChangelistDialog2" timestamp="1579909724498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="326" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579909563112" />
+    <state x="326" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579909724498" />
     <state x="458" y="38" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1579855565450" />
-    <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1579909292856">
+    <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1580065207749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579909292856" />
+    <state width="1308" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580065207749" />
     <state width="1892" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1579886775849" />
-    <state width="1308" height="163" key="GridCell.Tab.0.center" timestamp="1579909292856">
+    <state width="1308" height="163" key="GridCell.Tab.0.center" timestamp="1580065207749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579909292856" />
+    <state width="1308" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580065207749" />
     <state width="1892" height="259" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1579886775849" />
-    <state width="1308" height="163" key="GridCell.Tab.0.left" timestamp="1579909292856">
+    <state width="1308" height="163" key="GridCell.Tab.0.left" timestamp="1580065207749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579909292856" />
+    <state width="1308" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580065207749" />
     <state width="1892" height="259" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1579886775849" />
-    <state width="1308" height="163" key="GridCell.Tab.0.right" timestamp="1579909292856">
+    <state width="1308" height="163" key="GridCell.Tab.0.right" timestamp="1580065207749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579909292856" />
+    <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580065207749" />
     <state width="1892" height="259" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1579886775849" />
     <state width="1892" height="321" key="GridCell.Tab.1.bottom" timestamp="1579885658007">
       <screen x="0" y="0" width="1920" height="1032" />
@@ -190,11 +206,15 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="344" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1579791191606" />
-    <state x="321" y="128" key="Vcs.Push.Dialog.v2" timestamp="1579909574676">
+    <state x="321" y="128" key="Vcs.Push.Dialog.v2" timestamp="1579909744158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="128" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579909574676" />
+    <state x="321" y="128" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579909744158" />
     <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1579854684800" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580065328469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580065328469" />
     <state x="543" y="257" key="git4idea.merge.GitPullDialog" timestamp="1579855578116">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
