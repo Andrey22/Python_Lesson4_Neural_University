@@ -20,6 +20,9 @@ def frequentname(listname):
     dict = list(dict.items())
     dict.sort(key=lambda x: x[1], reverse=True)
     # x[1]  означает сортировку по Values, т.е. по количеству повторений имени в словаре (имя, количество повторений)
+    # [0][0]  = вывод ключа первого элемента из отсортированного словаре dict,
+    # [0][1] = вывод ключа второго элемента из отсортированного словаре dict
+    # [1][0] = вывод Value первого элемента из отсортированного словаре dict
     return dict[0][0]
 
 print(frequentname(new_list))
@@ -30,10 +33,15 @@ def rareletter(list2):
     dict2 = {}
     for name in list2:
         for char in name:
-            dict2[char] = dict2.get(char,0) + 1
+            #
+            # выявление заглавной буквы в имени
+            #
+            if char.isupper():
+                dict2[char] = dict2.get(char, 0) + 1
+            else: continue
     dict2 = list(dict2.items())
     dict2.sort(key=lambda x: x[1])
-    # x[1]  означает сортировку по Values, т.е. по количеству повторений имени в словаре (имя, количество повторений)
     return dict2[0][0]
+# return dict2[0][0], dict2[1][0], dict2, dict2[0][0].isupper()
 print(rareletter(new_list))
 
