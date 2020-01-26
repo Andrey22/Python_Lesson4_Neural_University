@@ -21,5 +21,4 @@ def frequentname(listname):
     dict.sort(key=lambda x: x[1], reverse=True)
     return dict[0]
 
-print(frequentname(new_list
-
+print(frequentname(new_list))
